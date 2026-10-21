@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bendigoshortstaymanagement.com.au/sitemap.xml
